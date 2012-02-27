@@ -1,0 +1,12 @@
+{
+    "name" : "request-browserify-example",
+    "version" : "0.0.0",
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/substack/request-browserify-example.git"
+    },
+    "dependencies" : {
+        "request" : "~2.9.152",
+        "browserify" : "~1.10.2"
+    }
+}
